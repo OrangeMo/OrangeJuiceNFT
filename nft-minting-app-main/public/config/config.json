@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc5c66d5c375bea1e5d1d02cf0fdd796d476ce532",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xe5d6ae443973dae92185ead6135150da056e37efbcad51839e93a438f0cfe328",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Orange Juice Club",
+  "SYMBOL": "OJNFT",
+  "MAX_SUPPLY": 8299,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/orangejuiceclub",
+  "SHOW_BACKGROUND": true
+}
